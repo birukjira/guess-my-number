@@ -40,7 +40,7 @@ The original developer of this project is [Jonas Schmedtmann](https://github.com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/guess-my-number.git
+   git clone https://github.com/birukjira/guess-my-number.git
    ```
 2. Navigate to the project directory:
    ```bash
